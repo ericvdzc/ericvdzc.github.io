@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 
-myimg{
+img{
   width:300px;
   height:300px;
   object-fit:cover;
