@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="288pt" viewBox="0 0 432 288" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-15T14:54:08.620503</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 432 288 
+L 432 0 
+L 0 0 
+L 0 288 
+z
+" style="fill: none; opacity: 0"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 87.62375 276.12 
+L 380.408704 276.12 
+L 380.408704 34.269219 
+L 87.62375 34.269219 
+L 87.62375 276.12 
+z
+" style="fill: none; opacity: 0"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 87.62375 248.214141 
+L 181.491628 248.214141 
+L 181.491628 233.180681 
+L 87.62375 233.180681 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #1d3bff"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 87.62375 265.126783 
+L 218.006673 265.126783 
+L 218.006673 250.093323 
+L 87.62375 250.093323 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #9a9aa0"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 87.62375 201.234579 
+L 159.405068 201.234579 
+L 159.405068 186.20112 
+L 87.62375 186.20112 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #1d3bff"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 87.62375 218.147221 
+L 91.906401 218.147221 
+L 91.906401 203.113762 
+L 87.62375 203.113762 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #9a9aa0"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 87.62375 154.255018 
+L 185.632858 154.255018 
+L 185.632858 139.221559 
+L 87.62375 139.221559 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #1d3bff"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 87.62375 171.16766 
+L 116.174755 171.16766 
+L 116.174755 156.134201 
+L 87.62375 156.134201 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #9a9aa0"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 87.62375 107.275457 
+L 327.815084 107.275457 
+L 327.815084 92.241997 
+L 87.62375 92.241997 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #1d3bff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 87.62375 124.188099 
+L 165.187314 124.188099 
+L 165.187314 109.154639 
+L 87.62375 109.154639 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #9a9aa0"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 87.62375 60.295896 
+L 366.466563 60.295896 
+L 366.466563 45.262436 
+L 87.62375 45.262436 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #1d3bff"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 87.62375 77.208538 
+L 151.387661 77.208538 
+L 151.387661 62.175078 
+L 87.62375 62.175078 
+z
+" clip-path="url(#p33c2a8ec67)" style="fill: #9a9aa0"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: end; fill: #0c0c0d" x="84.12375" y="252.967013" transform="rotate(-0 84.12375 252.967013)">MEMO</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: end; fill: #0c0c0d" x="84.12375" y="205.987452" transform="rotate(-0 84.12375 205.987452)">PRESCRIPTION</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: end; fill: #0c0c0d" x="84.12375" y="159.007891" transform="rotate(-0 84.12375 159.007891)">DRUG</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: end; fill: #0c0c0d" x="84.12375" y="112.028329" transform="rotate(-0 84.12375 112.028329)">PRIVATE</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: end; fill: #0c0c0d" x="84.12375" y="65.048768" transform="rotate(-0 84.12375 65.048768)">BANK</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_6">
+    <path d="M 87.62375 276.12 
+L 87.62375 34.269219 
+" clip-path="url(#p33c2a8ec67)" style="fill: none; stroke: #dcdcd6; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #0c0c0d" x="193.307937" y="243.193505" transform="rotate(-0 193.307937 243.193505)">3%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #6b6b70" x="229.822982" y="260.106147" transform="rotate(-0 229.822982 260.106147)">4%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #0c0c0d" x="171.221377" y="196.213943" transform="rotate(-0 171.221377 196.213943)">2%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #6b6b70" x="103.72271" y="213.126585" transform="rotate(-0 103.72271 213.126585)">0%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #0c0c0d" x="197.449167" y="149.234382" transform="rotate(-0 197.449167 149.234382)">3%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #6b6b70" x="127.991064" y="166.147024" transform="rotate(-0 127.991064 166.147024)">1%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #0c0c0d" x="339.631393" y="102.254821" transform="rotate(-0 339.631393 102.254821)">8%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #6b6b70" x="177.003623" y="119.167463" transform="rotate(-0 177.003623 119.167463)">3%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #1d3bff" x="378.282872" y="55.552603" transform="rotate(-0 378.282872 55.552603)">SPAM 9%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #6b6b70" x="163.203971" y="72.465245" transform="rotate(-0 163.203971 72.465245)">HAM 2%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11px; font-family: 'SF Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #0c0c0d" x="87.62375" y="20.269219" transform="rotate(-0 87.62375 20.269219)">SHARE OF EMAILS CONTAINING WORD · 8,348 EMAILS</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p33c2a8ec67">
+   <rect x="87.62375" y="34.269219" width="292.784954" height="241.850781"/>
+  </clipPath>
+ </defs>
+</svg>
